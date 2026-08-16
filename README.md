@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **archanamnair096@gmail.com**
 
-- ⚡ Fun fact **I love turning ideas into working applications**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
