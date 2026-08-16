@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Archana M 👋</h1>
-<h3 align="center">🐍 Python Developer | 🤖 AI Engineer | Django • REST APIs • LangChain • RAG • AI Agents</h3>
+<h3 align="center"> Python Developer |  AI Engineer | Django • REST APIs • LangChain • RAG • AI Agents</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/archanamofficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -25,37 +25,37 @@
 <tr>
 <td width="50%">
 
-**🤖 [IntelliHire](https://github.com/archana-m-11)**
-Agentic AI interview automation platform with voice-enabled candidate interaction, resume parsing, anti-cheating monitoring & LLM-based response evaluation.
+**🤖 [IntelliHire](https://github.com/Archana-M-11/IntelliHire--Agenti-AI-based-Interiew-Automation)**  
+Agentic AI interview automation platform with voice-enabled candidate interaction, resume parsing, anti-cheating monitoring & LLM-based response evaluation.  
 `Django` `Groq API` `SQLite` `JavaScript`
 
 </td>
 <td width="50%">
 
-**🔥 [TheraRoast AI](https://github.com/archana-m-11)**
-AI-powered Malayalam "roast therapy" platform generating personalized Gen-Z style responses via prompt engineering.
+**🔥 [TheraRoast AI](https://github.com/Archana-M-11/TheraRoast-AI)**  
+AI-powered Malayalam Gen-Z roast therapy platform generating personalized responses using prompt engineering and Gemini API.  
 `Django` `Gemini API` `JavaScript`
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-**📦 Procurement Management System**
-Full-stack system streamlining purchasing workflows, vendor management, order tracking & PDF invoice generation with role-based access.
-`React` `Node.js` `Express.js` `Bootstrap`
+**⚡ [Production-Ready AI API](https://github.com/Archana-M-11/production-ready-api_streamlit)**  
+Production-ready AI API built with LangChain & LangGraph, featuring security validation, rate limiting, caching, health checks, Streamlit UI and Docker deployment.  
+`FastAPI` `LangGraph` `Docker` `Streamlit`
 
 </td>
 <td width="50%">
 
-**⚡ Production-Ready AI API**
-Deployed AI API with LangChain & LangGraph — security validation, rate limiting, caching, health checks & a Streamlit UI, fully Dockerized.
-`FastAPI` `LangGraph` `Docker` `Render`
+**📦 [Procurement Management System](https://github.com/Archana-M-11/Procurement_managemnt_system)**  
+Full-stack procurement system for purchasing workflows, vendor management, order tracking, PDF invoice generation and role-based access.  
+`React` `Node.js` `Express.js` `Bootstrap`
 
 </td>
 </tr>
 </table>
-
 ---
 
 ### 🧰 Tech Stack
@@ -107,27 +107,6 @@ Deployed AI API with LangChain & LangGraph — security validation, rate limitin
 </p>
 
 ---
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=archana-m-11&show_icons=true&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana-m-11&layout=compact&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=archana-m-11&theme=tokyonight&hide_border=true"
-    height="165"
-  />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
@@ -138,5 +117,5 @@ Deployed AI API with LangChain & LangGraph — security validation, rate limitin
 </p>
 
 <p align="center">
-  <i>💡 Always open to interesting Python / AI collaborations — let's build something!</i>
+  <i> Always open to interesting Python / AI collaborations — let's build something!</i>
 </p>
