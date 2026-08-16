@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Archana M</h1>
 <h3 align="center">Python Developer & AI Engineer | Django • REST APIs • LLMs & AI Agents</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archana-m-11&label=Profile%20views&color=0e75b6&style=flat" alt="archana-m-11" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archana-m-11" alt="archana-m-11" /></a> </p>
+
+
 
 - 🔭 I’m currently working on **AI-powered applications and backend systems**
 
 - 🌱 I’m currently learning **LangChain, LangGraph, RAG, AI Agents & Production AI**
 
-- 👯 I’m looking to collaborate on **Python, Django & AI projects**
-
-- 💬 Ask me about **Python, Django, REST APIs, RAG & AI Agents**
 
 - 📫 How to reach me **archanamnair096@gmail.com**
 
