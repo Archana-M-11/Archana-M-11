@@ -86,6 +86,7 @@ Full-stack procurement system for purchasing workflows, vendor management, order
 <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square">
 <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square">
 <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
 </p>
 
 **Databases**
@@ -104,6 +105,7 @@ Full-stack procurement system for purchasing workflows, vendor management, order
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
+
 </p>
 
 ---
