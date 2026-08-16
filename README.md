@@ -110,12 +110,21 @@ Deployed AI API with LangChain & LangGraph — security validation, rate limitin
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=archana-m-11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana-m-11&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=archana-m-11&show_icons=true&theme=tokyonight&hide_border=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana-m-11&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=archana-m-11&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=archana-m-11&theme=tokyonight&hide_border=true"
+    height="165"
+  />
 </p>
 
 ---
