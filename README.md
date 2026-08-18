@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Archana M 👋</h1>
-<h3 align="center"> Python Developer |  AI Engineer | Django • REST APIs • LangChain • RAG • AI Agents</h3>
+<h3 align="center"> Python Developer | Django • REST APIs • LangChain • RAG • AI Agents</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/archanamofficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
