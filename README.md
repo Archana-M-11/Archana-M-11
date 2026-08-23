@@ -1,39 +1,38 @@
-<h1 align="center">Hi there, I'm Archana M 👋</h1>
-<h3 align="center"> Python Developer | • Django • React • REST APIs • RAG • AI Agents</h3>
+<h1 align="center">Archana M</h1>
+<h3 align="center">Python Developer — Django · React · REST APIs · RAG · AI Agents</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/archanamofficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:archanamnair096@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://archana-m-11.github.io/Archana_portifolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://archana-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/archana-m-11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-### 🔭 About Me
+### About
 
-- 🎓 B.Tech Computer Science Engineering graduate , NCERC Pampady
-- 🌱 Currently deepening my skills in **LangGraph, RAG pipelines, CrewAI & Production AI systems**
-- 🛠️ I love building **agentic AI platforms**, REST APIs, and full-stack web applications
-- 📫 Reach me at **archanamnair096@gmail.com**
+B.Tech Computer Science Engineering graduate (NCERC Pampady) with hands-on experience building agentic AI platforms, REST APIs, and full-stack web applications. Currently deepening expertise in LangGraph, RAG pipelines, CrewAI, and production-grade AI systems. Open to full-time roles as a Python / Full Stack Developer.
+
+**Contact:** archanamnair096@gmail.com
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-**🤖 [IntelliHire](https://github.com/Archana-M-11/IntelliHire--Agenti-AI-based-Interiew-Automation)**  
-Agentic AI interview automation platform with voice-enabled candidate interaction, resume parsing, anti-cheating monitoring & LLM-based response evaluation.  
+**[IntelliHire](https://github.com/Archana-M-11/IntelliHire--Agenti-AI-based-Interiew-Automation)**
+Agentic AI interview automation platform with voice-enabled candidate interaction, resume parsing, anti-cheating monitoring, and LLM-based response evaluation.
 `Django` `Groq API` `SQLite` `JavaScript`
 
 </td>
 <td width="50%">
 
-**🔥 [TheraRoast AI](https://github.com/Archana-M-11/TheraRoast-AI)**  
-AI-powered Malayalam Gen-Z roast therapy platform generating personalized responses using prompt engineering and Gemini API.  
+**[TheraRoast AI](https://github.com/Archana-M-11/TheraRoast-AI)**
+AI-powered Malayalam Gen-Z roast-therapy platform that generates personalized responses using prompt engineering and the Gemini API.
 `Django` `Gemini API` `JavaScript`
 
 </td>
@@ -42,23 +41,24 @@ AI-powered Malayalam Gen-Z roast therapy platform generating personalized respon
 <tr>
 <td width="50%">
 
-**⚡ [Production-Ready AI API](https://github.com/Archana-M-11/production-ready-api_streamlit)**  
-Production-ready AI API built with LangChain & LangGraph, featuring security validation, rate limiting, caching, health checks, Streamlit UI and Docker deployment.  
+**[Production-Ready AI API](https://github.com/Archana-M-11/production-ready-api_streamlit)**
+Production-grade AI API built with LangChain and LangGraph, featuring security validation, rate limiting, caching, health checks, a Streamlit UI, and Docker deployment.
 `FastAPI` `LangGraph` `Docker` `Streamlit`
 
 </td>
 <td width="50%">
 
-**📦 [Procurement Management System](https://github.com/Archana-M-11/Procurement_managemnt_system)**  
-Full-stack procurement system for purchasing workflows, vendor management, order tracking, PDF invoice generation and role-based access.  
+**[Procurement Management System](https://github.com/Archana-M-11/Procurement_managemnt_system)**
+Full-stack procurement system covering purchasing workflows, vendor management, order tracking, PDF invoice generation, and role-based access control.
 `React` `Node.js` `Express.js` `Bootstrap`
 
 </td>
 </tr>
 </table>
+
 ---
 
-### 🧰 Tech Stack
+### Technical Skills
 
 **Languages & Core**
 <p>
@@ -105,19 +105,14 @@ Full-stack procurement system for purchasing workflows, vendor management, order
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white">
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-
 </p>
 
 ---
-
-### 🌐 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/archanamofficial">LinkedIn</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:archanamnair096@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <i> Always open to interesting Python / AI collaborations — let's build something!</i>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://archana-portifolio.vercel.app/">Portfolio</a>
 </p>
