@@ -181,10 +181,7 @@ Rate limiting, caching, health checks, and Docker deployment
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archana-M-11/Archana-M-11/output/github-snake-dark.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Archana-M-11/Archana-M-11/output/github-snake.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=archana-m-11&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20(Last%2031%20Days)" width="95%" />
 
 <br/>
 
