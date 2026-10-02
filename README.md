@@ -179,9 +179,4 @@ Rate limiting, caching, health checks, and Docker deployment
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Open%20to%20Full-Time%20Roles&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=Python%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=16" />
 
-<div align="center">
 
-<a href="mailto:archanamnair096@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20Touch-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://archana-portifolio.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white"></a>
-
-</div>
