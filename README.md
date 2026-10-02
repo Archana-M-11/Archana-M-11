@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 <a href="https://linkedin.com/in/archanamofficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:archanamnair096@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://archana-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
@@ -131,11 +130,9 @@ Full-stack procurement system covering purchasing workflows, vendor management, 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=archana-m-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana-m-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-<img src="https://streak-stats.demolab.com/?user=archana-m-11&theme=tokyonight&hide_border=true" />
-
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=archana-m-11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
+<img src="https://streak-stats.demolab.com/?user=archana-m-11&theme=tokyonight&hide_border=true" />
 
 </div>
 
