@@ -2,21 +2,11 @@
 
 <div align="center">
 
-<a href="https://github.com/archana-m-11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Python+%7C+React+%7C+REST+APIs;RAG+Pipelines+and+AI+Agents" alt="Typing SVG" />
-</a>
-
-<br/>
 
 <a href="https://linkedin.com/in/archanamofficial"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:archanamnair096@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://archana-portifolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://github.com/archana-m-11"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=for-the-badge">
-<img src="https://komarev.com/ghpvc/?username=archana-m-11&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
 
 </div>
 
