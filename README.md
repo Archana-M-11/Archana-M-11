@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/archana-m-11">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Django+%7C+React+%7C+REST+APIs;RAG+Pipelines+and+AI+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Python+%7C+React+%7C+REST+APIs;RAG+Pipelines+and+AI+Agents" alt="Typing SVG" />
 </a>
 
 <br/>
