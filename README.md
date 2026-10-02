@@ -181,7 +181,7 @@ Rate limiting, caching, health checks, and Docker deployment
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=archana-m-11&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph%20(Last%2031%20Days)" width="95%" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="95%" />
 
 <br/>
 
