@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Archana%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Full%20Stack%20%7C%20Agentic%20AI&descAlignY=58&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Archana%20M&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Full%20Stack%20%7C%20Agentic%20AI&descAlignY=58&descSize=20&animation=twinkling" />
 
 <div align="center">
 
@@ -177,16 +177,17 @@ Rate limiting, caching, health checks, and Docker deployment
 
 ---
 
-## Activity Insights
+## Contribution Activity
 
 <div align="center">
 
-<img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
-<img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Archana-M-11/Archana-M-11/output/github-snake-dark.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Archana-M-11/Archana-M-11/output/github-snake.svg" />
+</picture>
 
 <br/>
 
-<img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
 <img height="200" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
 
 </div>
