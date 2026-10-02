@@ -123,27 +123,8 @@ Full-stack procurement system covering purchasing workflows, vendor management, 
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=archana-m-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana-m-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=archana-m-11&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=70&section=header&text=Core%20Strengths&fontSize=26&fontColor=ffffff&fontAlignY=50" />
 
-
-          
 <table>
 <tr>
 <td width="50%" valign="top" align="center">
@@ -179,25 +160,35 @@ Rate limiting, caching, health checks, and Docker deployment
 </tr>
 </table>
 
-name: GitHub Profile Summary Cards
+---
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+## GitHub Stats
 
-permissions:
-  contents: write
+<div align="center">
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=archana-m-11&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archana-m-11&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
-      - uses: vn7n24fzkq/github-profile-summary-cards@release/v5
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
+<br/>
 
+<img src="https://streak-stats.demolab.com/?user=archana-m-11&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Activity Insights
+
+<div align="center">
+
+<img height="200" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" />
+<img height="200" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+
+<br/>
+
+<img height="200" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+<img height="200" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
