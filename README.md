@@ -137,3 +137,51 @@ Full-stack procurement system covering purchasing workflows, vendor management, 
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=70&section=header&text=Core%20Strengths&fontSize=26&fontColor=ffffff&fontAlignY=50" />
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/BACKEND%20ENGINEERING-0F2027?style=for-the-badge&logo=django&logoColor=white">
+
+REST API design, authentication, role-based access control, and database modelling
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/FULL%20STACK%20DEVELOPMENT-203A43?style=for-the-badge&logo=react&logoColor=white">
+
+End-to-end applications with Django, React, and Node.js
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/AI%20INTEGRATION-2C5364?style=for-the-badge&logo=langchain&logoColor=white">
+
+RAG pipelines, LLM-powered features, and agent workflows with LangGraph and CrewAI
+
+</td>
+<td width="50%" valign="top" align="center">
+
+<img src="https://img.shields.io/badge/PRODUCTION%20READINESS-0F2027?style=for-the-badge&logo=docker&logoColor=white">
+
+Rate limiting, caching, health checks, and Docker deployment
+
+</td>
+</tr>
+</table>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Open%20to%20Full-Time%20Roles&fontSize=28&fontColor=ffffff&fontAlignY=42&desc=Python%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=65&descSize=16" />
+
+<div align="center">
+
+<a href="mailto:archanamnair096@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20Touch-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://archana-portifolio.vercel.app/"><img src="https://img.shields.io/badge/View%20Portfolio-203A43?style=for-the-badge&logo=vercel&logoColor=white"></a>
+
+</div>
